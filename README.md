@@ -12,3 +12,6 @@ La vista pública incluye las clases y los métodos que tendrán esas clases, qu
 Hemos creado un momento (ver el listado de momentos en el desplegable) que os llevará directamente al momento en el que se explica el enunciado de esta práctica. El momento se llama "Enunciado ejercicio propuesto". 
 
 En esta tutoría también se mostró muy rápidamente la sintaxis en PlantUML de la definción de métodos. Lo vimos usando PlantText.
+
+# Solución propuesta
+![Alt text](class_diagram.png?raw=true "Mastermind Class Diagram")
